@@ -1,6 +1,6 @@
 {
   "name": "express-payload-sanitizer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Express Payload Sanitizer is a middleware package for Express.js that provides two essential utilities: - **`cleanPayload`**: Cleans `req.body` by removing empty strings, `null` values, and empty objects. - **`restrictRequest`**: Validates `req.body` to ensure no `null`, `undefined`, or invalid `NaN` values are present and return bad request as response to client side.",
   "main": "index.js",
   "scripts": {
